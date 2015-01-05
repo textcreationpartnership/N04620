@@ -130,13 +130,14 @@
    <text xml:lang="eng">
       <front>
          <div type="half_title">
-            <pb facs="tcp:005749_0000_1026F4BE26274DB0"/>
-            <pb facs="tcp:005749_0001_1026F4C546FB3B40"/>
+            <pb facs="unknown:005749_0000_1026F4BE26274DB0"/>
+            <pb facs="unknown:005749_0001_1026F4C546FB3B40"/>
             <p>Mr. <hi>Browne</hi>'s SERMON Occaſion'd by the Rebellion in <hi>Scotland.</hi>
             </p>
          </div>
          <div type="title_page">
-            <pb facs="tcp:005749_0002_1026F4CB62FCAE28" rendition="simple:additions"/>
+            <pb facs="unknown:005749_0002_1026F4CB62FCAE28"
+                rendition="simple:additions"/>
             <p>
                <hi>The Folly and Perjury of the Rebellion in</hi> Scotland, <hi>diſplay'd:</hi> IN A SERMON Preach'd at <hi>Portſmouth,</hi> in <hi>New-Hampſhire, February</hi> the 23d. 1745-6.</p>
             <p>By <hi>Arthur Browne,</hi> A. M. Miniſter of the Church of <hi>England</hi> in that Place, And Miſſionary from the Society for propagating the Goſpel in Foreign Parts.</p>
@@ -147,7 +148,7 @@
       </front>
       <body>
          <div type="sermon">
-            <pb n="3" facs="tcp:005749_0003_1026F4CA4367AC70"/>
+            <pb n="3" facs="unknown:005749_0003_1026F4CA4367AC70"/>
             <head>A SERMON, <hi>&amp;c.</hi>
             </head>
             <epigraph>
@@ -213,7 +214,7 @@
                   <desc>••</desc>
                </gap>
                <g ref="char:EOLunhyphen"/>flect Honour upon our Country, but make <hi>England</hi> the Wonder <hi>Europe,</hi> and effectually ſubverted and confounded the Deſigns of
-<pb facs="tcp:005749_0004_1026F4CD7A887F40"/>
+<pb facs="unknown:005749_0004_1026F4CD7A887F40"/>
                <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> Enemies: It made our Queen and Nation reverenced in thoſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -298,7 +299,7 @@
                </gap>itted. <hi>And meddle not with them that are given unto change.</hi>
             </p>
             <p>
-               <pb facs="tcp:005749_0005_1026F4D1942B6038"/>
+               <pb facs="unknown:005749_0005_1026F4D1942B6038"/>
 It may not be improper in diſcourſing from theſe Words, to aſſign ſome Cauſes of Men's being given unto change.</p>
             <p>In the ſecond Place, I ſhall repreſent the Danger of engaging with Men that are addicted to change.</p>
             <p>And ſhall in the laſt Place, make ſuch Improvements as Time and the Deſign I have in View will admit of.</p>
@@ -347,7 +348,7 @@ It may not be improper in diſcourſing from theſe Words, to aſſign ſome Cau
                   <desc>•••</desc>
                </gap>
                <g ref="char:EOLhyphen"/>gality,
-<pb facs="tcp:005749_0006_1026F4D436F2D178"/>don't ſcruple to ſacrifice the Peace of Society, and overthrow <gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb facs="unknown:005749_0006_1026F4D436F2D178"/>don't ſcruple to ſacrifice the Peace of Society, and overthrow <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>he beſt ordered and moſt excellent Conſtitution.</p>
             <p>Another Cauſe I ſhall juſt mention, which may contribute to pro<g ref="char:EOLhyphen"/>mote Factions and Diſorders in regular, well conſtituted Bodies, is a <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -396,7 +397,7 @@ It may not be improper in diſcourſing from theſe Words, to aſſign ſome Cau
                   <desc>〈◊〉</desc>
                </gap> the ſame vicious Courſes, may dwindle into quite another Diſ<g ref="char:EOLhyphen"/>poſition and Frame of Spirit, and in a ſhort Time loſe all appre<g ref="char:EOLhyphen"/>henſion of the Indecency, the Wickedneſs of thoſe Actions which they have ſo familiarly and ſo long converſed with.</p>
             <p>
-               <pb n="7" facs="tcp:005749_0007_1026F4D6ED9E6BC8"/>
+               <pb n="7" facs="unknown:005749_0007_1026F4D6ED9E6BC8"/>
 An undoubted Inſtance of this firſt we have in the Caſe of the Royal Martyr. I charitably preſume, nay, I firmly believe, tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> many of thoſe miſerable Men that were concerned in that <hi>Rebellion</hi> and finally in the King's <hi>Murder,</hi> would have ſtartled and trembled at the bare mentioning ſo horrible a Fact, when they firſt engaged in the <hi>Republican Faction.</hi> But having once proſtituted their Under<g ref="char:EOLunhyphen"/>ſtandings to the Cheats and Deluſions of their <hi>Ringleaders,</hi> they were naturally led to aſſent to any Principles, any Method that might ſupport the Cauſe they had embarked in: And thus their Zeal be<g ref="char:EOLunhyphen"/>coming outrageous, tranſported them into Sedition, and then having no other Way to eſcape the Danger they perceived hanging over their Heads, they fell into the moſt unnatural Rebellion; and being engaged in Rebellion, what other Sanctuary, what other Security could they have recourſe to, but <hi>Regicide? (i. e)</hi> cutting off the King. People little know what they are made of, and can have no Security againſt falling into the very Depths of Hell, but Circumſpection, Care and Watchfulneſs, (under the Influence and Direction of Grace) in the Preſervation of their Innocence, and a due Conſideration of the Conſequence and Tendency of every Action and Undertaking.</p>
@@ -418,7 +419,7 @@ An undoubted Inſtance of this firſt we have in the Caſe of the Royal Martyr. 
                </gap> good for the preſent, and they deſign not to depart from that Ru<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap> but carefully to avoid all Opportunities that may betray them in ſuch Crimes as they ſeem now to abhor, and never perſwade them<g ref="char:EOLhyphen"/>ſelves that it is in their Power to ſtop at this or to'ther Offence
-<pb n="8" facs="tcp:005749_0008_1026F4D9D38F7A10"/>Degree in Sin, and proceed no further. There is no Inſtance of any Man's arriving at a deſperate Pitch in Wickedneſs ſuddenly; this is <gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb n="8" facs="unknown:005749_0008_1026F4D9D38F7A10"/>Degree in Sin, and proceed no further. There is no Inſtance of any Man's arriving at a deſperate Pitch in Wickedneſs ſuddenly; this is <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>rought about gradually and by Progreſſion; one Sin drew on another, <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -451,7 +452,7 @@ An undoubted Inſtance of this firſt we have in the Caſe of the Royal Martyr. 
                   <desc>•</desc>
                </gap>he very Seminaries of Rebellion; but out of an awful Fear and Dread of the Divine Majeſty, they ſhould honour and obey the King, and avoid as they would Plague or Peſtilence, meddling with thoſe that are given to change.</p>
             <p>
-               <pb n="9" facs="tcp:005749_0009_1026F4DEE2E9DDC0"/>
+               <pb n="9" facs="unknown:005749_0009_1026F4DEE2E9DDC0"/>
 Many of the <hi>Scottiſh Rebels,</hi> we humbly hope (without any Breach of Chriſtian Charity) are convinced before this Time, of the pernicious Conſequences of unſtable Principles: They have been taken in the Devices they imagined, and have had the Reward of their Deſerts. Surely ſuch Wretches muſt have been addicted to change with a Vengeance, who could prevail upon themſelves to join the Inhabitants of <hi>Babylon,</hi> to raſe the Walls of their own <hi>Sion,</hi> to conſpire and rebel againſt a Prince, who is a Defender of the Faith they profeſs, and to join with one who by the Principles of his Re<g ref="char:EOLhyphen"/>ligion, is under the moſt ſolemn Obligations to deſtroy it. But this requires a more particular Conſideration.</p>
             <p>Now, what can be more aſtoniſhing? How could ſuch a Relation ever obtain Credit, were it not verified in Fact, that any of our Fellow Subjects ſhould be given over to ſuch Infatuation; tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -462,10 +463,10 @@ Many of the <hi>Scottiſh Rebels,</hi> we humbly hope (without any Breach of Chr
                </gap> any Prince's in Europe? Has not the Crown been ſettled on him by the concurring Votes of Lords and Common, under the auſpiciou<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>
-               <pb n="10" facs="tcp:005749_0010_1026F4E14D9328A0"/>Influences of King <hi>William</hi> and Queen <hi>Anne?</hi> Is not the Proteſtant Succeſſion in the illuſtrious Houſe of <hi>Hanover</hi> a Point in which all Parties, all Factions have at leaſt pretended to be agreed? And has not this Title been recognized in moſt ſolemn Prayers and Thankſgivings to Almighty God, when Men could not prevaricate without the vileſt Hypocriſy? I know there has a Noiſe been made about indefeaſible hereditary Right, and the like; but the Advocates for that Scheme have not duly conſidered, that <hi>that</hi> Doctrine will invalidate the Right of any Prince upon Earth; for upon their Hy<g ref="char:EOLhyphen"/>potheſis, there can be but one Perſon in the Univerſe, that has any Right to be a King, and he muſt prove himſelf deſcended in a right Line from the eldeſt Son of <hi>Noah,</hi> the Conſequence of which muſt be Diſorder, Anarchy, Confuſion.</p>
+               <pb n="10" facs="unknown:005749_0010_1026F4E14D9328A0"/>Influences of King <hi>William</hi> and Queen <hi>Anne?</hi> Is not the Proteſtant Succeſſion in the illuſtrious Houſe of <hi>Hanover</hi> a Point in which all Parties, all Factions have at leaſt pretended to be agreed? And has not this Title been recognized in moſt ſolemn Prayers and Thankſgivings to Almighty God, when Men could not prevaricate without the vileſt Hypocriſy? I know there has a Noiſe been made about indefeaſible hereditary Right, and the like; but the Advocates for that Scheme have not duly conſidered, that <hi>that</hi> Doctrine will invalidate the Right of any Prince upon Earth; for upon their Hy<g ref="char:EOLhyphen"/>potheſis, there can be but one Perſon in the Univerſe, that has any Right to be a King, and he muſt prove himſelf deſcended in a right Line from the eldeſt Son of <hi>Noah,</hi> the Conſequence of which muſt be Diſorder, Anarchy, Confuſion.</p>
             <p>But, this Hypotheſis will appear altogether whimſical, whether we conſult the Laws of God, or the Laws and Cuſtoms of our own Country. If we conſult the Scriptures, we ſhall there find <hi>David,</hi> who was of another Tribe and Family, ſucceeding <hi>Saul; Solomon</hi> ſuc<g ref="char:EOLhyphen"/>ceeding <hi>David,</hi> in Preference to his elder Brother; and <hi>Jehoahaz</hi> pre<g ref="char:EOLhyphen"/>fer'd to <hi>Jehoiakim;</hi> with many other Inſtances. If we conſult the Laws and Cuſtoms of our own Country, we ſhall find, that from <hi>William the Conqueror,</hi> to his preſent Majeſty King GEORGE, (in which Time we have a Succeſſion of thirty and one Kings and Queens) we have not had above four, who have ſucceeded one another in (what is called) <hi>the right Line;</hi> and we ſhall there likewiſe find, that in the Reigns of Queen <hi>Elizabeth</hi> and Queen <hi>Anne,</hi> it was enacted High Treaſon to queſtion the Power of Queen and Parliament to limit and bind the Crown, and the Deſcent and Inheritance thereof. Theſe Authorities ſhew (beyond all Contradiction) that his Majeſty's Title to the Crown of his Realms is conſiſtent with, and eſtabliſh'd both by the Laws of God, and the Laws and Cuſtoms of the Land.</p>
             <p>But, <hi>ſecondly.</hi> May not his Majeſty have exerciſed ſome Acts of Tyranny and arbitrary Power? May he not have made his Will the Meaſure of his Actions, and govern'd by Luſt, Prejudice or Fancy? How the Subject is to ſeek for Relief in ſuch difficult Circumſtances as theſe, is not my Buſineſs to determine: But this we are certain of, that nothing of this Sort can be objected againſt our Sovereign, by the moſt audacious and inſolent of thoſe Rebels that are, or have been in Arms againſt him. The Prerogative has not in the leaſt been ſtretch'd beyond its due and proper Bounds. No Man has been de<g ref="char:EOLhyphen"/>prived
-<pb facs="tcp:005749_0011_1026F4E3EF2D02D8"/>of Life or Fortune in an illegal Way: The Laws of t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+<pb facs="unknown:005749_0011_1026F4E3EF2D02D8"/>of Life or Fortune in an illegal Way: The Laws of t<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap> Land are the Compaſs he has conſtantly ſteer'd by; and he can a<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -541,7 +542,7 @@ Many of the <hi>Scottiſh Rebels,</hi> we humbly hope (without any Breach of Chr
                </gap> King <hi>Edward:</hi> But no ſooner was ſhe eſtabliſhed, but ſhe forg<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap>
-               <pb facs="tcp:005749_0012_1026F4E5C24106C0"/>
+               <pb facs="unknown:005749_0012_1026F4E5C24106C0"/>
                <gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap>r Engagements, and with Haughtineſs told them, (when they ſub<g ref="char:EOLhyphen"/>
@@ -629,7 +630,7 @@ Many of the <hi>Scottiſh Rebels,</hi> we humbly hope (without any Breach of Chr
                <gap reason="illegible" resp="#PDCC" extent="4 letters">
                   <desc>••••</desc>
                </gap>tions then as theſe be thought ſufficient to found an hereditary
-<pb facs="tcp:005749_0013_1026F4EBA6C41A50"/>Right to the Crown of <hi>England</hi> upon? For my part, I would as ſo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+<pb facs="unknown:005749_0013_1026F4EBA6C41A50"/>Right to the Crown of <hi>England</hi> upon? For my part, I would as ſo<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap> recognize the hereditary Right of an <hi>Indian Sachem,</hi> or <hi>Sagamore.</hi>
             </p>
@@ -686,7 +687,7 @@ Many of the <hi>Scottiſh Rebels,</hi> we humbly hope (without any Breach of Chr
             <p>Behold then the glorious Change! Behold the Advantages! Behold the Chains, the Yoke, the preſent Propagators of Rebellion would hammer out for us and our Poſterity! God of his infinite Mercy avert this Curſe from us! but may thoſe Incendiaries have the <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> Fruition of that Slavery they ſeem ſo earneſtly to deſire (I mean
-<pb facs="tcp:005749_0014_1026F4EF13F1BA68"/>many as eſcape the Gallows) in thoſe Countries where arbitrary and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+<pb facs="unknown:005749_0014_1026F4EF13F1BA68"/>many as eſcape the Gallows) in thoſe Countries where arbitrary and <gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap>rannical Principles prevail. In the mean Time, <hi>O my Soul, come <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
@@ -762,7 +763,7 @@ Many of the <hi>Scottiſh Rebels,</hi> we humbly hope (without any Breach of Chr
                </gap>, retain the ſame ſavage Diſpoſition to the Flock of Chriſt, which <gap reason="illegible" resp="#PDCC" extent="3 letters">
                   <desc>•••</desc>
                </gap>y (according to their charitable Principles) think proper to ſtig<g ref="char:EOLhyphen"/>matiſe
-<pb n="15" facs="tcp:005749_0015_1026F4F2B4E853A8"/>with the odious Apellation of <hi>Hereticks;</hi> and as ſuch, think it not only lawful, but neceſſary to exterpate them off the Face o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb n="15" facs="unknown:005749_0015_1026F4F2B4E853A8"/>with the odious Apellation of <hi>Hereticks;</hi> and as ſuch, think it not only lawful, but neceſſary to exterpate them off the Face o<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> the Earth.</p>
             <p>Thus I have examined the moſt plauſible Pleas that can be urged in Favour of the Rebels; and tho' I have ſuppoſed them founded in Reaſon and Religion, yet you ſee they are all ſtrongly in Favour of his Majeſty, and directly againſt the <hi>Pretender.</hi> The Diſturbers the<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -789,7 +790,7 @@ Many of the <hi>Scottiſh Rebels,</hi> we humbly hope (without any Breach of Chr
                </gap> conſumed; the Conſequences of which muſt be Miſery and Famin<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>.
-<pb facs="tcp:005749_0016_1026F4F458DCB348"/>And beſides, all this Miſchief, all this Deſtruction ſpring only from Notion; for you have not the leaſt Proſpect of making your ſelves <gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb facs="unknown:005749_0016_1026F4F458DCB348"/>And beſides, all this Miſchief, all this Deſtruction ſpring only from Notion; for you have not the leaſt Proſpect of making your ſelves <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>app<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -865,7 +866,7 @@ Many of the <hi>Scottiſh Rebels,</hi> we humbly hope (without any Breach of Chr
                   <gap reason="illegible" resp="#PDCC" extent="4 letters">
                      <desc>••••</desc>
                   </gap>t,</hi> this <hi>large</hi> Work may be carried on by joint Aſſiſtance and
-<pb n="17" facs="tcp:005749_0017_1026F4F634825A30"/>well-concerted Meaſures, and that thoſe who at preſent may be <gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb n="17" facs="unknown:005749_0017_1026F4F634825A30"/>well-concerted Meaſures, and that thoſe who at preſent may be <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>epa<g ref="char:EOLhyphen"/>rated too far from one another, may draw nearer <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -879,7 +880,7 @@ Many of the <hi>Scottiſh Rebels,</hi> we humbly hope (without any Breach of Chr
                </gap>ſty King GEORGE; may Length of Days be in his right Hand, and in his left Hand Riches and Honour. May his Enemies be cloathed with Shame, but upon his Head may the Crown flouriſh. May his Royal High<g ref="char:EOLhyphen"/>neſs <hi>Frederick, Prince of Wales,</hi> inherit the Virtues of his Father, together with his Dominions: May his ill<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ſtrious Conſort be a fruitful Vine by the Sides of his Houſe, and his Iſſue, thoſe Olive Plants that
-<pb n="18" facs="tcp:005749_0018_1026F4F942D0FA50"/>are round about his Table, prove certain Pledges of <hi>England</hi>'s Peace and Proſperity; and may there never be wanting one from the Loins of the illuſtrious Houſe of <hi>Hanover,</hi> to ſucceed in the Throne of <hi>Great Britain,</hi> as long as the Sun and Moon endure. May his Royal Highneſs the Duke be ſafe under the Covering of the Almighty's Wings; and may the Enemies to the Peace of our Sion flee before him, as Duſt before the Wind. Finally; may the Nobility, Ma<g ref="char:EOLhyphen"/>giſtrates, Officers and Gentry exert themſelves in their reſpective Ca<g ref="char:EOLhyphen"/>pacities at this critical Conjuncture: May the Glory of God, the Peace of the Nation, and the Salvation of Souls, be the principal Things to exerciſe the great Abilities of our Biſhops and Clergy; and may the People of all Ranks and Conditions prove pious and well-affected, dutiful and loyal; may they <hi>fear God and honour the King, and med<g ref="char:EOLhyphen"/>dle not with them that are given unto change.</hi>—This God of his infinite Mercy grant, for the Sake of his Son Jeſus Chriſt our Lord; to whom with the Father and the Holy Ghoſt, be aſcribed all Power and Glory, Might, Majeſty and Dominion, now and for evermore.</p>
+<pb n="18" facs="unknown:005749_0018_1026F4F942D0FA50"/>are round about his Table, prove certain Pledges of <hi>England</hi>'s Peace and Proſperity; and may there never be wanting one from the Loins of the illuſtrious Houſe of <hi>Hanover,</hi> to ſucceed in the Throne of <hi>Great Britain,</hi> as long as the Sun and Moon endure. May his Royal Highneſs the Duke be ſafe under the Covering of the Almighty's Wings; and may the Enemies to the Peace of our Sion flee before him, as Duſt before the Wind. Finally; may the Nobility, Ma<g ref="char:EOLhyphen"/>giſtrates, Officers and Gentry exert themſelves in their reſpective Ca<g ref="char:EOLhyphen"/>pacities at this critical Conjuncture: May the Glory of God, the Peace of the Nation, and the Salvation of Souls, be the principal Things to exerciſe the great Abilities of our Biſhops and Clergy; and may the People of all Ranks and Conditions prove pious and well-affected, dutiful and loyal; may they <hi>fear God and honour the King, and med<g ref="char:EOLhyphen"/>dle not with them that are given unto change.</hi>—This God of his infinite Mercy grant, for the Sake of his Son Jeſus Chriſt our Lord; to whom with the Father and the Holy Ghoſt, be aſcribed all Power and Glory, Might, Majeſty and Dominion, now and for evermore.</p>
             <trailer>FINIS.</trailer>
          </div>
       </body>
